@@ -26,7 +26,7 @@ def home():
     return """
     <html>
     <head>
-        <title>My Colorful Flask API</title>
+        <title>My Flask API</title>
         <style>
             body {
                 margin: 0;
